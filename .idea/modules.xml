@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Day1/Day1.iml" filepath="$PROJECT_DIR$/Day1/Day1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day2-Library_MS/Day2-Library_MS.iml" filepath="$PROJECT_DIR$/Day2-Library_MS/Day2-Library_MS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day4-Multithreading/Day4-Multithreading.iml" filepath="$PROJECT_DIR$/Day4-Multithreading/Day4-Multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Edafa.iml" filepath="$PROJECT_DIR$/.idea/Edafa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day4-Multithreading/ProducerConsumer/ProducerConsumer.iml" filepath="$PROJECT_DIR$/Day4-Multithreading/ProducerConsumer/ProducerConsumer.iml" />
     </modules>
   </component>
 </project>
